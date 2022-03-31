@@ -1,0 +1,224 @@
+html,
+body {
+  font-family: PingFangSC-Regular;
+  font-weight: 100;
+  overflow: hidden;
+}
+
+ul,
+li,
+p {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body {
+  background-image: url(assets/img/bg_window.png);
+  background-position: top center;
+  background-size: cover;
+}
+
+#app {
+  position: absolute;
+
+  overflow: hidden;
+  width: 1280px;
+  height: 720px;
+
+}
+
+.logo {
+  position: absolute;
+  top: 18px;
+  left: 32px;
+}
+
+
+.currency-logo {
+  position: absolute;
+  z-index: 300;
+  top: 36px;
+  left: 34px;
+  height: 41px;
+  color: #f8c7a4;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+
+  img {
+    height: 41px;
+  }
+
+  .iconfont {
+    font-size: 36px !important;
+  }
+
+  .icon {
+    display: inline-block;
+    width: 40px;
+    height: 50px;
+    background: #f8c7a4 no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: 100% auto;
+    margin-top: -5px;
+    vertical-align: middle;
+    -webkit-mask-position: center center;
+  }
+
+  .fa-icon {
+    font-size: 1.9em;
+    vertical-align: middle;
+    color: #f8c7a4;
+  }
+
+  span {
+    font-size: 25px;
+    margin-left: 0px;
+    vertical-align: middle;
+    color: #f8c7a4;
+  }
+}
+
+.page-container {
+  padding-top: 108px;
+}
+
+.videoContro {
+  line-height: 20px;
+  position: absolute;
+  bottom: 100px;
+  left: 50%;
+  display: inline-block;
+  width: 1000px;
+  height: 20px;
+  margin-left: -500px;
+  color: white;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+#playProgress {
+  position: absolute;
+  left: 50%;
+  float: left;
+  width: 800px;
+  height: 10px;
+  margin-top: 5px;
+  margin-left: -400px;
+}
+
+#playtime {
+  display: block;
+  height: 5px;
+  margin-top: 2.5px;
+  background-color: white;
+}
+
+#startTime {
+  margin-left: 10px;
+}
+
+#endTime {
+  float: right;
+  margin-right: 10px;
+}
+
+.movie-txt {
+  width: 530px;
+  color: #fff;
+}
+
+.page-head {
+  position: relative;
+  top: 2px;
+  height: 106.7px;
+}
+
+.movie-text {
+  font-size: 25.3px;
+  float: left;
+  margin-top: 35.3px;
+  margin-left: 30px;
+  color: #f8c7a4;
+}
+
+
+.table-header {
+  width: 1080px;
+  margin: 0 auto;
+  line-height: 66px;
+  border-collapse: collapse;
+  font-size: 28px;
+  color: #fff;
+  text-align: center;
+
+  th {
+    background: rgba(29, 32, 33, 0.8);
+    color: #e4b99a;
+    font-weight: normal;
+  }
+}
+
+.table-body {
+  width: 1080px;
+  height: 397px;
+  margin: 0 auto;
+  overflow: hidden;
+  background: rgba(87, 92, 130, 0.3);
+  font-size: 0;
+
+  li {
+    height: 100px;
+  }
+
+  span {
+    display: inline-block;
+    font-size: 23px;
+    color: #fff;
+    text-align: center;
+    line-height: 2.1;
+    vertical-align: middle;
+  }
+
+  .selected {
+    background: #575c82;
+  }
+}
+
+.table-foot {
+  width: 1080px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  background: rgba(29, 32, 33, 0.8);
+  font-size: 24px;
+  line-height: 65px;
+  padding-left: 20px;
+  clear: both;
+  color: #989a9c;
+  position: relative;
+
+  .num {
+    position: absolute;
+    right: 60px;
+  }
+
+  .fa-icon {
+    vertical-align: middle;
+  }
+}
+
+.el-loading-mask {
+  // background: rgba(0,0,0,0.9) !important;
+  background: transparent !important;
+}
+
+.fa-icon {
+  width: auto;
+  height: 1em;
+  /* 或任意其它字体大小相对值 */
+
+  /* 要在 Safari 中正常工作，需要再引入如下两行代码 */
+  max-width: 100%;
+  max-height: 100%;
+}

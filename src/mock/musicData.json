@@ -1,0 +1,301 @@
+{
+    "Musics": [
+        {
+            "PicSize": 449849,
+            "Name": {
+                "zh-CN": "A Darker Heart",
+                "en-US": "A Darker Heart"
+            },
+            "Seq": 1,
+            "SingerName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL_ABS": "http://mres.cleartv.cn/default/337cb970aa820bf151c7b99a5cd93e6e_156378597125.png",
+            "URL_ABS": "http://mres.cleartv.cn/default/39109037d883c0be7ab9b7635e2ed16c_155918606636.mp3",
+            "MusicIntro": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "URL": "/Music/resource/39109037d883c0be7ab9b7635e2ed16c_155918606636.mp3",
+            "ColumnName": {
+                "zh-CN": "摇滚",
+                "en-US": "Rock"
+            },
+            "PicURL": "/Music/resource/337cb970aa820bf151c7b99a5cd93e6e_156378597125.png",
+            "Duration": 274,
+            "MusicSize": 6523133,
+            "ID": 372
+        },
+        {
+            "PicSize": 599504,
+            "Name": {
+                "zh-CN": "A coustic Rock",
+                "en-US": "A coustic Rock"
+            },
+            "Seq": 2,
+            "SingerName": {
+                "zh-CN": "audionautix",
+                "en-US": "audionautix"
+            },
+            "PicURL_ABS": "http://mres.cleartv.cn/default/fddef3e1c7290a865f4ec9c88961834d_156378599728.png",
+            "URL_ABS": "http://mres.cleartv.cn/default/8b304aba1c83f7d0391725d45584442f_155918620817.mp3",
+            "MusicIntro": {
+                "zh-CN": "audionautix",
+                "en-US": "audionautix"
+            },
+            "URL": "/Music/resource/8b304aba1c83f7d0391725d45584442f_155918620817.mp3",
+            "ColumnName": {
+                "zh-CN": "摇滚",
+                "en-US": "Rock"
+            },
+            "PicURL": "/Music/resource/fddef3e1c7290a865f4ec9c88961834d_156378599728.png",
+            "Duration": 167,
+            "MusicSize": 6727688,
+            "ID": 373
+        },
+        {
+            "PicSize": 421280,
+            "Name": {
+                "zh-CN": "5 Cents Back",
+                "en-US": "5 Cents Back"
+            },
+            "Seq": 3,
+            "SingerName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL_ABS": "http://mres.cleartv.cn/default/41782238ead1c24585d041f7dc50294b_156378603711.png",
+            "URL_ABS": "http://mres.cleartv.cn/default/a607bcfacbae9e10ca3bd41b0820af6a_155998122374.mp3",
+            "MusicIntro": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "URL": "/Music/resource/a607bcfacbae9e10ca3bd41b0820af6a_155998122374.mp3",
+            "ColumnName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL": "/Music/resource/41782238ead1c24585d041f7dc50294b_156378603711.png",
+            "Duration": 126,
+            "MusicSize": 2531832,
+            "ID": 374
+        },
+        {
+            "PicSize": 559381,
+            "Name": {
+                "zh-CN": "Pop Metal",
+                "en-US": "Pop Metal"
+            },
+            "Seq": 4,
+            "SingerName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL_ABS": "http://mres.cleartv.cn/default/9c19b1920d52edd9a121025388185042_156378606104.png",
+            "URL_ABS": "http://mres.cleartv.cn/default/c9fff0b1f4201bb9e72214d44fd12339_155998130093.mp3",
+            "MusicIntro": {
+                "zh-CN": "ROCK",
+                "en-US": "ROCK"
+            },
+            "URL": "/Music/resource/c9fff0b1f4201bb9e72214d44fd12339_155998130093.mp3",
+            "ColumnName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL": "/Music/resource/9c19b1920d52edd9a121025388185042_156378606104.png",
+            "Duration": 127,
+            "MusicSize": 5097057,
+            "ID": 375
+        },
+        {
+            "PicSize": 16643,
+            "Name": {
+                "zh-CN": "Marathon Man",
+                "en-US": "Marathon Man"
+            },
+            "Seq": 5,
+            "SingerName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL_ABS": "http://mres.cleartv.cn/default/ecd24bb5e0ff6ea1d3433c50844e2a6b_156111815395.png",
+            "URL_ABS": "http://mres.cleartv.cn/default/73b73115e7134c56c703609553c83349_156111811754.mp3",
+            "MusicIntro": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "URL": "/Music/resource/73b73115e7134c56c703609553c83349_156111811754.mp3",
+            "ColumnName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL": "/Music/resource/ecd24bb5e0ff6ea1d3433c50844e2a6b_156111815395.png",
+            "Duration": 144,
+            "MusicSize": 2895457,
+            "ID": 376
+        },
+        {
+            "PicSize": 16643,
+            "Name": {
+                "zh-CN": "Keep It Real",
+                "en-US": "Keep It Real"
+            },
+            "Seq": 6,
+            "SingerName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL_ABS": "http://mres.cleartv.cn/default/ecd24bb5e0ff6ea1d3433c50844e2a6b_156111822072.png",
+            "URL_ABS": "http://mres.cleartv.cn/default/98eda371524045a2837250229ad828d5_156111821014.mp3",
+            "MusicIntro": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "URL": "/Music/resource/98eda371524045a2837250229ad828d5_156111821014.mp3",
+            "ColumnName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL": "/Music/resource/ecd24bb5e0ff6ea1d3433c50844e2a6b_156111822072.png",
+            "Duration": 121,
+            "MusicSize": 1954004,
+            "ID": 377
+        },
+        {
+            "PicSize": 16643,
+            "Name": {
+                "zh-CN": "LineOfFire",
+                "en-US": "LineOfFire"
+            },
+            "Seq": 7,
+            "SingerName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL_ABS": "http://mres.cleartv.cn/default/ecd24bb5e0ff6ea1d3433c50844e2a6b_156111828043.png",
+            "URL_ABS": "http://mres.cleartv.cn/default/b52ab6fe600af160bb5bdd0d31d057fa_156111827138.mp3",
+            "MusicIntro": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "URL": "/Music/resource/b52ab6fe600af160bb5bdd0d31d057fa_156111827138.mp3",
+            "ColumnName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL": "/Music/resource/ecd24bb5e0ff6ea1d3433c50844e2a6b_156111828043.png",
+            "Duration": 69,
+            "MusicSize": 1393938,
+            "ID": 378
+        },
+        {
+            "PicSize": 16643,
+            "Name": {
+                "zh-CN": "HeadingWest",
+                "en-US": "HeadingWest"
+            },
+            "Seq": 8,
+            "SingerName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL_ABS": "http://mres.cleartv.cn/default/ecd24bb5e0ff6ea1d3433c50844e2a6b_156111834151.png",
+            "URL_ABS": "http://mres.cleartv.cn/default/6670242ab3ca8074eae511eede517556_156111831643.mp3",
+            "MusicIntro": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "URL": "/Music/resource/6670242ab3ca8074eae511eede517556_156111831643.mp3",
+            "ColumnName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL": "/Music/resource/ecd24bb5e0ff6ea1d3433c50844e2a6b_156111834151.png",
+            "Duration": 279,
+            "MusicSize": 5595888,
+            "ID": 379
+        },
+        {
+            "PicSize": 16643,
+            "Name": {
+                "zh-CN": "Heavy Drums Bass",
+                "en-US": "Heavy Drums Bass"
+            },
+            "Seq": 9,
+            "SingerName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL_ABS": "http://mres.cleartv.cn/default/ecd24bb5e0ff6ea1d3433c50844e2a6b_15611184519.png",
+            "URL_ABS": "http://mres.cleartv.cn/default/a88d88366b0c0c66ce4abb0333dfe1cf_156111839001.mp3",
+            "MusicIntro": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "URL": "/Music/resource/a88d88366b0c0c66ce4abb0333dfe1cf_156111839001.mp3",
+            "ColumnName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL": "/Music/resource/ecd24bb5e0ff6ea1d3433c50844e2a6b_15611184519.png",
+            "Duration": 118,
+            "MusicSize": 2368306,
+            "ID": 380
+        },
+        {
+            "PicSize": 16643,
+            "Name": {
+                "zh-CN": "Fight Scene",
+                "en-US": "Fight Scene"
+            },
+            "Seq": 10,
+            "SingerName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL_ABS": "http://mres.cleartv.cn/default/ecd24bb5e0ff6ea1d3433c50844e2a6b_156111851229.png",
+            "URL_ABS": "http://mres.cleartv.cn/default/4f3773ca1aefa5736b44ec8928039d20_156111850714.mp3",
+            "MusicIntro": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "URL": "/Music/resource/4f3773ca1aefa5736b44ec8928039d20_156111850714.mp3",
+            "ColumnName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL": "/Music/resource/ecd24bb5e0ff6ea1d3433c50844e2a6b_156111851229.png",
+            "Duration": 140,
+            "MusicSize": 5613236,
+            "ID": 381
+        },
+        {
+            "PicSize": 16643,
+            "Name": {
+                "zh-CN": "Hard Bounce",
+                "en-US": "Hard Bounce"
+            },
+            "Seq": 11,
+            "SingerName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL_ABS": "http://mres.cleartv.cn/default/ecd24bb5e0ff6ea1d3433c50844e2a6b_15611186105.png",
+            "URL_ABS": "http://mres.cleartv.cn/default/6518954d460e756addfb6cb221d87aad_156111857951.mp3",
+            "MusicIntro": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "URL": "/Music/resource/6518954d460e756addfb6cb221d87aad_156111857951.mp3",
+            "ColumnName": {
+                "zh-CN": "audionautix.com",
+                "en-US": "audionautix.com"
+            },
+            "PicURL": "/Music/resource/ecd24bb5e0ff6ea1d3433c50844e2a6b_15611186105.png",
+            "Duration": 124,
+            "MusicSize": 4984208,
+            "ID": 382
+        }
+    ]
+}
